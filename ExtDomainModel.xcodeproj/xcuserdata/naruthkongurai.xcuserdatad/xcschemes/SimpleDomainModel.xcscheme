@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "FE6891131CB5D8E40018C340"
-               BuildableName = "SimpleDomainModel"
-               BlueprintName = "SimpleDomainModel"
-               ReferencedContainer = "container:SimpleDomainModel.xcodeproj">
+               BuildableName = "ExtDomainModel"
+               BlueprintName = "ExtDomainModel"
+               ReferencedContainer = "container:ExtDomainModel.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -34,9 +34,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "FE6891211CB5D90B0018C340"
-               BuildableName = "SimpleDomainModelTests.xctest"
-               BlueprintName = "SimpleDomainModelTests"
-               ReferencedContainer = "container:SimpleDomainModel.xcodeproj">
+               BuildableName = "ExtDomainModelTests.xctest"
+               BlueprintName = "ExtDomainModelTests"
+               ReferencedContainer = "container:ExtDomainModel.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -44,9 +44,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "FE6891131CB5D8E40018C340"
-            BuildableName = "SimpleDomainModel"
-            BlueprintName = "SimpleDomainModel"
-            ReferencedContainer = "container:SimpleDomainModel.xcodeproj">
+            BuildableName = "ExtDomainModel"
+            BlueprintName = "ExtDomainModel"
+            ReferencedContainer = "container:ExtDomainModel.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -68,9 +68,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "FE6891131CB5D8E40018C340"
-            BuildableName = "SimpleDomainModel"
-            BlueprintName = "SimpleDomainModel"
-            ReferencedContainer = "container:SimpleDomainModel.xcodeproj">
+            BuildableName = "ExtDomainModel"
+            BlueprintName = "ExtDomainModel"
+            ReferencedContainer = "container:ExtDomainModel.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -87,9 +87,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "FE6891131CB5D8E40018C340"
-            BuildableName = "SimpleDomainModel"
-            BlueprintName = "SimpleDomainModel"
-            ReferencedContainer = "container:SimpleDomainModel.xcodeproj">
+            BuildableName = "ExtDomainModel"
+            BlueprintName = "ExtDomainModel"
+            ReferencedContainer = "container:ExtDomainModel.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
